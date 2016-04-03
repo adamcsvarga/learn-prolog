@@ -3,3 +3,4 @@
 
 1. `crossword.pl` is a crossword puzzle solver as described [here](http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse7)
 in *Exercise 2.4*
+2. `matryoshka.pl` tells if a matryoshka doll is in another one
